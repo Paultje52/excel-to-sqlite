@@ -1,0 +1,24 @@
+{
+  "name": "excel-to-sqlite",
+  "version": "1.0.0",
+  "description": "Convert excel documents to sqlite!",
+  "main": "src/index.js",
+  "dependencies": {
+    "sqlite3": "5.0.0",
+    "xlsx": "0.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "eccd test && node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paultje52/excel-to-sqlite.git"
+  },
+  "author": "Paultje52",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paultje52/excel-to-sqlite/issues"
+  },
+  "homepage": "https://github.com/Paultje52/excel-to-sqlite#readme"
+}
