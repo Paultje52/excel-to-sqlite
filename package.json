@@ -4,7 +4,7 @@
   "description": "Convert excel documents to sqlite!",
   "main": "src/index.js",
   "dependencies": {
-    "sqlite3": "5.0.3",
+    "sqlite3": "5.1.5",
     "xlsx": "0.17.0"
   },
   "devDependencies": {},
